@@ -1,0 +1,1 @@
+docker build -t jonathanheindl/rpi-maven . && docker push jonathanheindl/rpi-maven
